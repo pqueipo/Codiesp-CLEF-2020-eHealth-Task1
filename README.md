@@ -12,8 +12,9 @@ Dictionary matching for ICD-10 codification in English and Spanish, using Spacy 
 Corpus called "CodiEsp" from:
 [Link to CodiEsp Corpus](https://zenodo.org/record/3758054)
 
-Miranda-Escalada,A.,Krallinger,M.:CodiEspcodes:listofvalidCIE10codesfortheCodiEsptask(Jan2020).
+Antonio Miranda, Aitor Gonzalez-Agirre, & Martin Krallinger. (2020). CodiEsp corpus: Spanish clinical cases coded in ICD10 (CIE10) - eHealth CLEF2020 (Version 1.2) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3693570
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3693570.svg)](https://doi.org/10.5281/zenodo.3693570)
 
 Funded by the Plan  de  Impulso de las Tecnologías del Lenguaje (Plan TL)
+
