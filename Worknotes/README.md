@@ -11,8 +11,7 @@ http://ceur-ws.org/Vol-2696/paper_263.pdf
 
 
 
-## [Worknotes reference](
-http://ceur-ws.org/Vol-2696/paper_211.pdf)
+### [Worknotes reference](http://ceur-ws.org/Vol-2696/paper_211.pdf)
 Queipo-Álvarez, P., Gonzalez-Carrasco, I.: Classifying Clinical Case Studies with ICD-10 atCodiesp CLEF eHealth 2020 Task 1-Diagnostics In: Working Notes of Conference and Labs of the Evaluation (CLEF) Forum. CEUR Workshop Proceedings (2020) 
  
 http://ceur-ws.org/Vol-2696/paper_211.pdf
