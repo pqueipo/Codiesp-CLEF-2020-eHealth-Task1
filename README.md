@@ -10,3 +10,7 @@ Dictionary matching for ICD-10 codification in English and Spanish, using Spacy 
 [I'm an inline-style link](https://zenodo.org/record/3758054)
 
 [aaa](https://doi.org/10.5281/zenodo.3706838,https://doi.org/10.5281/zenodo.3706838)
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3693570.svg)](https://doi.org/10.5281/zenodo.3693570)
+
