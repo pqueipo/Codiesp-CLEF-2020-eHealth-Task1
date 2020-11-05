@@ -12,7 +12,7 @@ variaciones léxicas, abreviaturas u errores ortográficos.
 
 Para aumentar la recuperación, los enfoques de coincidencia por aproximación utilizan similitud léxica y coincidencia de cadenas de caracteres por aproximación.
 
-### Importar corpus
+## Importar corpus
 Se han descargado y preparado los directorios del corpus. Se han combinado todos los ficheros de texto presentes en una carpeta como un fichero único en el script «files_to_tsv».
 
 ## Preprocesado de datos
