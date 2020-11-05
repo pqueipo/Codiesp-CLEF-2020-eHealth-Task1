@@ -15,4 +15,5 @@ Corpus called "CodiEsp" from:
 Miranda-Escalada,A.,Krallinger,M.:CodiEspcodes:listofvalidCIE10codesfortheCodiEsptask(Jan2020).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3693570.svg)](https://doi.org/10.5281/zenodo.3693570)
-Funded  by  the  Plan  de  Impulsode las Tecnolog ́ıas del Lenguaje (Plan TL)
+
+Funded by the Plan  de  Impulso de las Tecnologías del Lenguaje (Plan TL)
