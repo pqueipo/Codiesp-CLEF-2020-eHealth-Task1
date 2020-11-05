@@ -17,5 +17,6 @@ and 0.115 respectively.
 The results are promising, especially precision and the evaluation regardless of the codes’ sub-category.
 
 This work was supported by the Research Program of the Ministry of Economy and Competitiveness - Government of Spain, (DeepEMR project TIN2017- 87548-C2-1-R).
+
 Keywords: ICD-10-CM * Clinical case studies * Multilabel classification * NamedEntity Recognition * Dictionary based approach * Fuzzy matching
 
