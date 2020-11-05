@@ -1,4 +1,4 @@
-#[CLEF 2020 Working Notes](http://ceur-ws.org/Vol-2696/)
+# [CLEF 2020 Working Notes](http://ceur-ws.org/Vol-2696/)
 Working Notes of CLEF 2020 - Conference and Labs of the Evaluation Forum
 Thessaloniki, Greece, September 22-25, 2020.
 (http://ceur-ws.org/Vol-2696/)
